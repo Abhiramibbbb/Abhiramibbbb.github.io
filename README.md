@@ -1,10 +1,10 @@
-###About Me
+#About Me
 
-###Introduction
+##Introduction
 
 I am Abhirami B, an ambitious and detail-oriented data science enthusiast currently pursuing an Integrated MSc in Data Science at Amrita Vishwa Vidyapeetham. With a strong foundation in Python, SQL, and machine learning, I am passionate about solving real-world problems through data-driven insights. My academic journey and hands-on project experience have equipped me with the skills to analyze complex datasets, build predictive models, and develop innovative solutions. I thrive in collaborative environments and am committed to continuous learning in this rapidly evolving field.
 
-###Skills
+##Skills
 
 Programming Languages: Python, R, Java, SQL
 
@@ -20,7 +20,7 @@ Database Management: MongoDB, PostgreSQL
 
 Other Tools: Prompt Engineering, Midjourney, Data Cleaning, Data Augmentation
 
-###Education
+##Education
 
 Integrated MSc in Data Science
 Amrita Vishwa Vidyapeetham
@@ -40,7 +40,7 @@ Percentage: 94%
 01/2017 – 05/2019
 Completed secondary education with a strong academic record.
 
-###Certifications
+##Certifications
 
 Machine Learning
 Udemy Certification in Machine Learning.
