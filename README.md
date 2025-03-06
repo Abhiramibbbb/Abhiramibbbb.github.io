@@ -41,6 +41,7 @@ Percentage: 94%
 Completed secondary education with a strong academic record.
 
 ###Certifications
+
 Machine Learning
 Udemy Certification in Machine Learning.
 
